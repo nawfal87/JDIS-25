@@ -1,0 +1,1 @@
+export default function Fees(){return (<section id='fees' className='section'><div className='container'><h2 className='text-2xl md:text-3xl font-bold'>Frais d'inscription</h2><p className='mt-2 text-slate-700'><strong>Frais d'inscription :</strong> </p></div></section>)}

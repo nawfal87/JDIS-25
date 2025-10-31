@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pr. A. Dupont",
+    "affiliation": "Université X",
+    "topic": "IA & Éco-conception",
+    "photo": "/avatar-placeholder.svg"
+  },
+  {
+    "name": "Dr. B. Martin",
+    "affiliation": "Laboratoire Y",
+    "topic": "Jumeaux numériques",
+    "photo": "/avatar-placeholder.svg"
+  },
+  {
+    "name": "Mme C. Leroy",
+    "affiliation": "Entreprise Z",
+    "topic": "Transfert technologique",
+    "photo": "/avatar-placeholder.svg"
+  }
+]

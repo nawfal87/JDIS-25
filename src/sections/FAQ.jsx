@@ -1,0 +1,2 @@
+import faq from '../data/faq.json'
+export default function FAQ(){return (<section id='faq' className='section'><div className='container'><h2 className='text-2xl md:text-3xl font-bold'>FAQ</h2><div className='mt-6 grid gap-4'>{faq.map((q,i)=>(<details key={i} className='card'><summary className='font-semibold cursor-pointer'>{q.q}</summary><p className='mt-2 text-slate-700'>{q.a}</p></details>))}</div></div></section>)}

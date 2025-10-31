@@ -1,0 +1,33 @@
+[
+  {
+    "time": "08:30",
+    "title": "Accueil & Café",
+    "location": "Hall"
+  },
+  {
+    "time": "09:00",
+    "title": "Cérémonie d'ouverture",
+    "speaker": "Doyen",
+    "location": "Amphi A"
+  },
+  {
+    "time": "09:30",
+    "title": "Session 1 — Présentations orales",
+    "location": "Amphi A"
+  },
+  {
+    "time": "12:30",
+    "title": "Déjeuner",
+    "location": "Cafétéria"
+  },
+  {
+    "time": "14:00",
+    "title": "Session 2 — Posters",
+    "location": "Hall"
+  },
+  {
+    "time": "17:00",
+    "title": "Clôture & Prix",
+    "location": "Amphi A"
+  }
+]
